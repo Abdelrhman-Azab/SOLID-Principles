@@ -1,4 +1,4 @@
-<img width="1000" alt="ddddd" src="https://github.com/Abdelrhman-Azab/SOLID-Principles/assets/50024540/c0e5af1a-cfeb-483f-a1ae-51ee584b90be">## GOALS OF USING SOLID PRINCIPLES
+## GOALS OF USING SOLID PRINCIPLES
 
 Increase the quality of the software by making it
 
