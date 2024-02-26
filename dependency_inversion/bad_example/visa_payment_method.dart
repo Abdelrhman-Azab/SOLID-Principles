@@ -1,0 +1,3 @@
+class VisaPaymentMethod {
+  void processPayment() {}
+}

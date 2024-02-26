@@ -1,0 +1,3 @@
+class PaypalPaymentMethod {
+  void processPayment() {}
+}
